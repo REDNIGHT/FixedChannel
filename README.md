@@ -25,17 +25,14 @@ Job=Mono  Runtime=Mono
 |       _2_FixedChannel_Lock |       0 |        0 |  22,001.3 us |    84.85 us |    79.36 us |    4 |      - |         - |
 | _2_SystemChannel_Unbounded |       0 |        0 |     577.0 us |     2.18 us |     1.82 us |    2 | 2.9297 |         - |
 |   _2_SystemChannel_Bounded |       0 |        0 |   1,175.7 us |    14.68 us |    13.73 us |    3 | 5.8594 |         - |
-
 |   _2_FixedChannel_SpinLock |       0 |        1 | 288,271.9 us |   308.64 us |   288.70 us |    5 |      - |         - |
 |       _2_FixedChannel_Lock |       0 |        1 | 290,593.0 us | 2,089.37 us | 1,954.40 us |    5 |      - |         - |
 | _2_SystemChannel_Unbounded |       0 |        1 | 304,186.5 us |   820.11 us |   767.13 us |    6 |      - |         - |
 |   _2_SystemChannel_Bounded |       0 |        1 | 304,744.6 us | 1,537.57 us | 1,438.24 us |    6 |      - |         - |
-
 |   _2_FixedChannel_SpinLock |       1 |        0 | 288,223.9 us |   525.16 us |   491.24 us |    5 |      - |         - |
 |       _2_FixedChannel_Lock |       1 |        0 | 301,892.3 us |   775.19 us |   725.11 us |    6 |      - |         - |
 | _2_SystemChannel_Unbounded |       1 |        0 | 303,623.2 us |   518.50 us |   485.01 us |    6 |      - |         - |
 |   _2_SystemChannel_Bounded |       1 |        0 | 303,165.8 us | 1,937.80 us | 1,812.62 us |    6 |      - |         - |
-
 |   _2_FixedChannel_SpinLock |       1 |        1 | 290,501.4 us |   232.50 us |   217.48 us |    5 |      - |         - |
 |       _2_FixedChannel_Lock |       1 |        1 | 303,851.1 us |   994.79 us |   930.53 us |    6 |      - |         - |
 | _2_SystemChannel_Unbounded |       1 |        1 | 302,817.6 us |   574.29 us |   537.20 us |    6 |      - |         - |
