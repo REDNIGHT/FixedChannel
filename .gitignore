@@ -1,1 +1,10 @@
-
+*.sln.DotSettings.user
+RNKitSolution/FixedChannel.Benchmarks/obj
+RNKitSolution/.idea
+RNKitSolution/FixedChannel.Example/bin
+RNKitSolution/FixedChannel.Example/obj
+RNKitSolution/FixedChannel.Tests/bin
+RNKitSolution/FixedChannel.Tests/obj
+RNKitSolution/FixedChannel/bin
+RNKitSolution/FixedChannel/obj
+RNKitSolution/packages
